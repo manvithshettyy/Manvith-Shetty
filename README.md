@@ -26,23 +26,6 @@ A comprehensive REST API-based personal finance management system built with Fla
 - **API**: RESTful API design
 - **Database Connectivity**: SQLAlchemy for database operations
 
-## Project Structure
-
-\`\`\`
-finance-management-system/
-├── app.py                 # Main Flask application
-├── models.py             # Database models (User, Transaction, Category, Budget)
-├── config.py             # Configuration settings
-├── requirements.txt      # Python dependencies
-├── services/
-│   ├── finance_service.py    # Business logic for finance operations
-│   └── analytics_service.py  # Analytics and reporting logic
-├── utils/
-│   └── helpers.py        # Utility functions
-├── scripts/
-│   └── seed_data.py      # Database seeding script
-└── README.md            # Project documentation
-\`\`\`
 
 ## Installation & Setup
 
